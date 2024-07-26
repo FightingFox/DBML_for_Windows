@@ -1,0 +1,4 @@
+Table test {
+id uuid [pk, not null, default: 'gen_random_uuid()']
+data varchar
+}

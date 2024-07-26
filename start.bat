@@ -1,0 +1,1 @@
+docker run -it --rm -v %cd%/dbml:/script/dbml_to_sql -v %cd%/sql:/script/sql_to_dbml dbml
